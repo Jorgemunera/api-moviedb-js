@@ -1,2 +1,2 @@
 # api-moviedb-js
-Consumo de API rest con javascript
+Consumption of moviedb rest api to create movie applications
